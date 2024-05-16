@@ -1,0 +1,30 @@
+.Header-container {
+  width: 100vw;
+  height: 50px;
+  background-color: orange;
+  padding-top: 25px;
+  padding-left: 30px; 
+  display: flex;
+  justify-content: space-around;
+}
+
+span {
+  margin-left: 20px;
+  font-size: 23px;
+}
+
+.product {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 120px;
+  margin-top: 40px;
+}
+
+.item{
+  width: 350px;
+  height: 500px;
+}
+
+
+
+
